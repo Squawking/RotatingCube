@@ -76,7 +76,7 @@ int main() {
 
 	while (running) {
 
-		//draw();
+		draw();
 
 		inputListen();
 
